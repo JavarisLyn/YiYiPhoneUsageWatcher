@@ -2,6 +2,6 @@
 一款旨在统计时长手机使用时长相关数据的安卓应用。
 
 ## 应用界面
-![image](https://github.com/JavarisLyn/YiYiPhoneUsageWatcher/blob/master/pics/Splash.jpg)
+<img src="https://github.com/JavarisLyn/YiYiPhoneUsageWatcher/blob/master/pics/Splash.jpg" width="375"/>
 
 
